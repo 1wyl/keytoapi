@@ -28,4 +28,4 @@
 
 ## 三、更多内容
 
-1. 更多详细内容请参考 [链接文本](https://github.com/1wyl/keytoapi/blob/main/%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf)
+1. 更多详细内容请参考 [我的github仓库](https://github.com/1wyl/keytoapi/blob/main/%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf)
