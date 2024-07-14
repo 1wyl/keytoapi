@@ -1,0 +1,1399 @@
+num,api,keys2
+1,#blue,Messaging England
+2,.tel,Domains
+3,123 Shop Pro,eCommerce
+4,123ContactForm,"Tools Surveys,Forms"
+5,12seconds.tv,Video Blogging
+6,140 Proof,Advertising
+7,18amail,Email Marketing
+8,1Map,"Mapping African,Addresses"
+9,23,Photos
+10,30 Boxes,Calendars Events
+11,411Sync,"Messaging Mobile,Telephony"
+12,43 Places,"Social Classification,Travel"
+13,43Things,Goals Classification
+14,4Shared,"File Sharing Media,Social,Storage,Tools"
+15,500px,Photos Social
+16,7digital,"Music Audio,Streaming"
+17,8coupons,"eCommerce Coupons,Localization,Aggregation"
+18,99designs Tasks,"Design Business,Graphics,Images,Photos"
+19,9flats,"Travel Housing,Rentals"
+20,Abbreviations,Reference
+21,AbeBooks,"Search Books,Referrals"
+22,Abios Esports,"eSports Database,Fantasy Sports,Gambling,Games,Sports"
+23,AccuWeather,Weather
+24,Active,"Events Activity Streams,Fishing,Registration,Sports"
+25,Active.com,Sports
+26,Actual Reports,"Office Design,Reporting,Printing"
+27,AddThis Analytics,Social Analytics
+28,AddThis Menu,Bookmarks Social
+29,AddThis Services,Social Bookmarks
+30,AddThis Sharing Endpoints,Social
+31,Aden Forshaw&amp;#039;s The Cat,"Photos Animals,Humor"
+32,Adility,"eCommerce Business,Localization"
+33,Adobe on AIR Bus Tour,Other Events
+34,Adobe Share,Storage Office
+35,Adobe Social,Social
+36,Aevum Obscurum,Games
+37,Agendize Action,"Enterprise Chat,Messaging,Messaging,Telephony,Business"
+38,AgentRank,Real Estate
+39,Ahrefs,"Backend URLs,Testing,Analytics,Security"
+40,aideRSS,Feeds
+41,AIM Phoneline,"Telephony VoIP,Messaging"
+42,Airbnb,Travel Rentals
+43,Airbrake,Tools
+44,Akismet,Blogging
+45,AlchemyAPI Keyword and Term Extraction,Other
+46,AlchemyAPI Text Categorization,Other
+47,Alexa Site Thumbnail,Photos
+48,Alexa Skill Management,"Tools Applications,Artificial Intelligence,Internet of Things,Management,Testing,Voice"
+49,Alexa Top Sites,SEO
+50,Alexa Web Information Service,Search SEO
+51,Alexa Web Search,Search
+52,Allmyles,"Travel Air Travel,Booking,Hotels"
+53,Allogarage,"eCommerce Auto,French"
+54,AlternativeTo,Recommendations Directories
+55,Altmetric,Education
+56,Amadeus,"Travel Air Travel,Booking,Hotels,Travel"
+57,Amazon A9 OpenSearch,Search
+58,Amazon Alexa Proactive Events,Internet of Things
+59,Amazon Alexa Skill Voice Service,Hardware Artificial Intelligence
+60,Amazon Alexa Smart Home Skills,"Internet of Things Automation,Home Automation,Integration,Voice"
+61,Amazon CloudWatch,Platform-as-a-Service Monitoring
+62,Amazon DynamoDB,Database NoSQL
+63,Amazon EC2,"Cloud Datacenter,Domains,Hosting"
+64,Amazon Flexible Payments Service,Payments eCommerce
+65,Amazon Fulfillment Web Service,eCommerce
+66,Amazon Historical Pricing,eCommerce
+67,Amazon Marketplace Web Service,"eCommerce Marketplace,Sales"
+68,Amazon Mechanical Turk,Other Crowdsourcing
+69,Amazon MWS,"Application Development eCommerce,Marketplace,Software-as-a-Service"
+70,Amazon Product Advertising,eCommerce Advertising
+71,Amazon Queue Service,Messaging Tools
+72,Amazon RDS Relational Database Service,Database Platform-as-a-Service
+73,Amazon Redshift,Database Storage
+74,Amazon S3,Storage Cloud
+75,Amazon SES,Email Protocol
+76,Amazon SimpleDB,Database
+77,Amazon SNS,Messaging USA
+78,Amazonca,"Reference Barcodes,eCommerce"
+79,AMEE,"Science Environment,Sustainability,Weather"
+80,AmeriCommerce,eCommerce
+81,Amnesty International,Other Government
+82,Amplify,"Semantics Natural Language Processing,Classification"
+83,Analytics SEO,"Search Marketing,SEO"
+84,AngularJS,"Backend Backend-as-a-Service,Applications,HTML5"
+85,Antideo,Spam Email
+86,anything2pdf,"Office Conversions,PDF"
+87,AOL Instant Messenger,"Chat File Sharing,Messaging,VoIP"
+88,AOL Open Auth,"Security Identity,Authentication"
+89,AOL Open Mail,Email
+90,AOL Pictures,Photos
+91,AOL Video,Video Search
+92,AOL Video Upload,Video
+93,ApartmentsApart,"Travel Real Estate,Housing,Rentals"
+94,API Hood Global Tides,"Weather Marine,Nature,Water"
+95,App.net,"Social Feeds,Networking"
+96,AppFollow,"Applications Monitoring,Ratings"
+97,AppHarbor,Applications Management
+98,ArcWeb,Mapping
+99,Are You Watching This,"Sports TV,Chat"
+100,ARKive,Education Animals
+101,ArtBeat,"Events New York City,Art,Design"
+102,Articulate Online,Education Training
+103,ArtistData,Music
+104,Assembla,"Project Management Enterprise,Webhooks"
+105,Australian Business Number Lookup,"Government Australian,Enterprise"
+106,Authorize.Net,"Payments eCommerce,Financial"
+107,Autodesk Freewheel,Other Design
+108,Automattic Wordpress Widgets,Widgets
+109,AvantLink,eCommerce
+110,Aviary Effects,Photos
+111,Aviary Suite,"Tools Photos,Editing"
+112,Aviary Web,"Photos Editing,Tools"
+113,Avvo,"Reference Directories,Health,Law,Medical"
+114,awe.sm,Social Analytics
+115,AYLIEN Text Analysis,"Tools Documents,Language,Text,Sentiment"
+116,Backpack,Office Project Management
+117,BackTweets,Search Blogging
+118,BackType,Blogging Social
+119,Baidu,"Advertising Marketing,Search"
+120,Bandcamp,"Music Lyrics,Marketplace"
+121,Bandsintown,"Music eCommerce,Events"
+122,Bank of Russia Daily Info,"Financial Russian,Banking"
+123,BART,"Transportation Government,Travel"
+124,Basecamp,"Project Management Collaboration,Enterprise"
+125,BatchBook,"Enterprise Business,Customer Relationship Management"
+126,BBC,"Media England,Music,TV"
+127,BBC Music,Music England
+128,BBC Nitro,"Media Catalogs,Database,Entertainment"
+129,Beatport,Music Database
+130,Bebo,Social
+131,Beebotte,"Internet of Things Backend,Cloud,Dashboards,Platform-as-a-Service,Real Time"
+132,BeenVerified,"Security Identity,Authentication"
+133,Beer Mapping,"Food Mapping,Beer,USA,Canadian"
+134,Behance,"Other Art,Design"
+135,Best Buy Products,"eCommerce Referrals,Search"
+136,Best Buy Reviews,eCommerce
+137,Betfair,"Gambling Data,Sports"
+138,BeThereNYC,"Events Entertainment,New York City"
+139,Bible Gateway,"Other Books,Religion"
+140,Biblia.com,"Reference Religion,Religion"
+141,BibSonomy,Bookmarks Social
+142,Big Huge Thesaurus,Reference
+143,BigCommerce,eCommerce Business
+144,BigTribe,Advertising
+145,Bike Index,"Cycling Community,Registry"
+146,Billboard,Music Reference
+147,billomat,"Financial Billing,Invoicing,Enterprise,German"
+148,Bing,Search Machine Learning
+149,Bing Maps,Mapping Viewer
+150,Bing Maps Geocode Dataflow,Mapping
+151,Bing Maps Locations,Mapping Addresses
+152,Bing Maps Routes,Mapping Location
+153,Bing Maps Search,Mapping Search
+154,Bing Traffic,Travel Transportation
+155,Biodiversity Heritage Library,"Science Library,Data,Catalogs"
+156,Bit.ly,URL Shortener URLs
+157,Bitcoin Charts / Markets,"Payments Bitcoin,Charts"
+158,Bitcoin Payment,"Bitcoin Currency,eCommerce,Payments"
+159,BitcoinAverage,"Cryptocurrency Bitcoin,Cryptocurrency,Feeds,Financial,Prices"
+160,Bitcurex,"Financial Bitcoin,Currency"
+161,Bitext,"Natural Language Processing Language,Semantics,Sentiment,Text"
+162,Bitfinex,"Financial Bitcoin,Currency"
+163,Bitrix24,"Office Business,Collaboration,Social"
+164,BitStamp HTTP,"Financial Bitcoin,Currency,Marketplace"
+165,BizVizz,"Data Business,Jobs"
+166,BlankSlate,"Database Platform-as-a-Service,Business"
+167,Blekko,Search
+168,Blinksale,"Financial Invoicing,Business"
+169,Blinkx,Video Search
+170,Blip.fm,Music Social
+171,Blip.tv,Video
+172,Blockchain Block Explorer,"Financial Bitcoin,Blockchain,Currency,eCommerce,File Sharing,Payments"
+173,Blockchain Receive Payments,"Payments Bitcoin,Blockchain,Cryptocurrency,eCommerce"
+174,Blockchain Wallet,"Payments Bitcoin,Blockchain,Cryptocurrency,eCommerce"
+175,Blogger,Blogging
+176,Bloglines,Feeds Blogging
+177,Bol.com Open,"eCommerce Books,Movies"
+178,Bondora,"Financial Banking,European,Funding,Loans,Risk Assessment"
+179,Booking.com Content,"Booking Hotels,Travel"
+180,BookingMarkets,Travel
+181,BookMooch,Other Books
+182,booli,"Real Estate Nordic,Search"
+183,BooRah Restaurant Search,"Search Food,Restaurants"
+184,BOT libre!,"Chat Automation,Avatars,Bots"
+185,Box,"Content Collaboration,Content Management,Enterprise,Security,Storage"
+186,Brandify,"Search Advertising,eCommerce,Mapping,Viewer"
+187,Brazil CKAN,Government Brazilian
+188,Brightcove,Video
+189,Brighter Planet CM1,"Environment Sustainability,Weather"
+190,Broadsoft Xtended,Telephony VoIP
+191,Brown Paper Tickets,Events Tickets
+192,Buffer,Social Scheduling
+193,BugSnag,"Tools Reporting,Analytics"
+194,Bump,"Telephony Data,Mobile,Social"
+195,Burstn,Photos Social
+196,Business Alerts,Messaging Tools
+197,Business Profiles,Enterprise Reference
+198,BusinessUSA Events,Government Business
+199,BuzzData,"Database Data,Hosting,Management"
+200,Buzznet,Photos Blogging
+201,C24 Validation,Financial Validation
+202,Cafe Press,eCommerce Customization
+203,Campaign Monitor,"Email Marketing,Enterprise,Customer Relationship Management"
+204,CampBX,"Bitcoin API,Banking,Business,Canadian,eCommerce,Financial,Integration,International,Mobile,North America,Ordering,Products,Real Time,Referrals,Refunds,Reporting,REST,Tools,USA"
+205,Campfire,"Chat Business,Social"
+206,Canadian Bitcoin Index,"Bitcoin Canadian,Financial"
+207,Capitol Words,Government
+208,CaptchaCoin,"Security Merchants,Verification,Captcha,Currency,Payments"
+209,CareerBuilder,Jobs
+210,Careerjet,Jobs
+211,Caret,"Internet of Things Accessibility,Applications,B2B,Games,Messaging,Real Time"
+212,Carma,"Other Sustainability,Environment,Science"
+213,CartoDB,Mapping Database
+214,Central Bank of Armenia Exchange Rates,"Financial Currency,International,Government"
+215,ChaCha,"Q&amp;A Messaging,Messaging,Telephony"
+216,ChannelAdvisor,eCommerce
+217,ChartLyrics Lyric,Music Lyrics
+218,Checkvist,Personal Information Management Tasks
+219,Cheezburger,"Photos Humor,Humor"
+220,Cicero,"Politics Addresses,Government"
+221,CircleCI,"Tools Application Development,Testing"
+222,Cirip,"Blogging Romanian,Social"
+223,City and State by Zip Code,Reference
+224,CityGrid,"eCommerce Search,Localization"
+225,CitySDK Mobility,"Transportation Open Data,European,Mapping"
+226,CKAN,"Database API Management,Data"
+227,CKAN Czech Republic,Government
+228,CKAN Ireland,Government
+229,CKAN Italy,Government Italian
+230,CKAN Norway,Government Nordic
+231,ClearForest Semantic Web Services1,"News Services Semantics,Natural Language Processing,Language,Text,Search"
+232,Cleartrip,Travel Booking
+233,Clickatell HTTP,"Messaging Mobile,Telephony"
+234,ClickUp,"Project Management Collaboration,Marketing,Products,Sales,Tasks"
+235,Clicky,Statistics
+236,Cligs,
+237,Clockwork SMS,"Messaging Telephony,Business"
+238,Cloud Elements Platform,"Software-as-a-Service Cloud,Customer Relationship Management,Developers,Documents,File Sharing,Integration,Monitoring,Storage"
+239,Cloudmade Leaflet,"Mapping Mobile,Viewer"
+240,CloudMine,"Backend Hosting,Mobile,Storage"
+241,Cloudspeakers,Music
+242,Cloudvox,"Telephony VoIP,Voice,Business"
+243,CNET,eCommerce
+244,Coderwall Profile,"Social Application Development,Profiles,Community"
+245,Cohuman,Project Management Tasks
+246,Coinbase,"Financial Bitcoin,Blockchain,Cryptocurrency,Currency,Payments"
+247,CoinCap,"Cryptocurrency Data,Prices,Real Time"
+248,CoinDesk,"Financial Bitcoin,Currency"
+249,Coinkite,"Financial Bitcoin,Currency"
+250,Coinpaprika,"Cryptocurrency Data,Marketplace,Prices"
+251,Coins-E,"Financial Bitcoin,Currency"
+252,Collecta,Search Real Time
+253,COLOURlovers,"Tools Colors,Design,Social,Visualizations"
+254,Commission Junction,eCommerce
+255,CompareDownload,"Music Comparisons,eCommerce,Audio"
+256,Compete,Statistics
+257,ConceptShare,Project Management Enterprise
+258,Concur,"Enterprise Accounting,Travel"
+259,Connotea,Bookmarks
+260,ConstantContact,"Email Marketing,Business"
+261,Contentful,"Applications Content Management,Tools,Content"
+262,Context Voice,"Social Analytics,Business,Tools Reputation"
+263,Context.IO,Email Business
+264,CoronaTracker,"COVID-19 Coronavirus,Data,International"
+265,CorpWatch,Other Non-Profit
+266,Coupomated Coupon DataFeed,"Coupons Automation,Coupons,Database,eCommerce,Feeds,Indian"
+267,Creative Commons,"Other Licensing,Community"
+268,CRMText,"Messaging Customer Relationship Management,Social,Advertising,Social"
+269,Cronofy,"Calendars Events,Integration,Webhooks"
+270,cross.io,Other
+271,CrowdFlower,Other Crowdsourcing
+272,CrunchBase,"Reference Enterprise,Financial"
+273,CryptoCoin Charts,Financial Currency
+274,Cryptsy,"Financial Bitcoin,Currency"
+275,CSS Mania,"Other Design,Design"
+276,CSV2GEO,Addresses Location
+277,CTA Bus Tracker,Transportation Travel
+278,CubeSensors,"Internet of Things Environment,Hardware,Health,Home Automation"
+279,Culture24,"Entertainment Publishing,Events,Education,Art,England"
+280,Currencies Exchange Rates,Financial Currency
+281,CyberSource Simple,Payments
+282,DabbleDB,"Database Office,Enterprise"
+283,Dailymile,Sports Social
+284,Dailymotion,"Video Movies,Social,TV"
+285,Dance-Tunes,Music Database
+286,DandyId,Social
+287,Dansk Supermarked,"API Data,European,Events,Holidays,Jobs,Location"
+288,Dapper,Tools
+289,Data.gov.uk,"Government Semantics,England"
+290,Data.Washington,Government
+291,Data24-7,"Email Canadian,Messaging,Telephony,USA"
+292,DataDog,"Tools Project Management,Data"
+293,Datarella,"Intelligence Analytics,Data,Location,Quantified Self,Real Time,Wearable"
+294,DataUnison eBay Research,"eCommerce Auctions,Reference"
+295,DatumBox,"Tools Education,Text"
+296,Daybreak Game Company Census,Games Entertainment
+297,Daylife,"News Services Media,Aggregation"
+298,DBpedia,"Wiki Reference,Semantics"
+299,DBpedia Spotlight,"Reference Extraction,Wiki,Semantics,RDF"
+300,Deal Magic,eCommerce Coupons
+301,DealSurf,"eCommerce Discounts,Localization"
+302,deCarta,Mapping Viewer
+303,del.icio.us,Bookmarks Social
+304,Democracy In Action,Government
+305,Design &amp;#039;N&amp;#039; Buy,"eCommerce Merchants,Social"
+306,deviantART,"Social Art,Upload"
+307,Dezrez,Real Estate
+308,DHL,Shipping
+309,Dialogflow Standard Webhooks,"Natural Language Processing Cloud,Machine Learning,Webhooks"
+310,Digg,News Services Bookmarks
+311,Digireality,Real Estate Classifieds
+312,Digital Podcast,Music Search
+313,DigitalBucket,Storage
+314,DigitalOcean,Storage Cloud
+315,Dipity,"Photos Blogging,Bookmarks,Education,News Services,Social"
+316,Direct Textbook,eCommerce Books
+317,Discogs,Music
+318,Disqus,Blogging Forums
+319,dlvr.it,Social
+320,Docstoc,"Office Documents,Business"
+321,DocuSign Enterprise,"Electronic Signature Contracts,Documents"
+322,Dog CEO Dog,"Entertainment Animals,Images,Pets,Random"
+323,Dog Gateway,Home Automation Internet of Things
+324,DoIt,"Personal Information Management Tasks,Office"
+325,DonorsChoose,"Education Charity,Non-Profit"
+326,Doodle,Tools Polls
+327,dopplr,Travel Social
+328,Drawloop,"Office PDF,Documents,Documents,Conversions"
+329,Dribbble,Other Design
+330,Dronestream,"Drones Military,Real Time,Tools"
+331,Drop.io,"File Sharing Storage,Media"
+332,Dropbox,Storage Social
+333,Dropbox Datastore,"Data File Sharing,Storage,Syncing"
+334,Dun and Bradstreet Business Verification,Reference
+335,Dun and Bradstreet Credit Check,Financial Reference
+336,e-conomic,"Financial Accounting,Invoicing"
+337,Earth911 Search,"Search Environment,Sustainability"
+338,EarthTools,"Tools Mapping,Time"
+339,Easy Blockchain,"Blockchain Bitcoin,Cryptocurrency,Documents"
+340,EasyToBook,"Travel Hotels,Booking,Referrals"
+341,eBay,"Search Auctions,eCommerce"
+342,eBay Finding,"Search Auctions,eCommerce"
+343,eBay Merchandising,"eCommerce Lists,Products,Recommendations,Sales"
+344,eBay Product Services,eCommerce Search
+345,eBay Shopping,eCommerce Sales
+346,ECGridOS EDI,"Tools ERP,Enterprise"
+347,EditGrid,Office Spreadsheets
+348,Edmunds.com Vehicle,"Reference Auto,Database,Transportation"
+349,eduroam,Authentication
+350,EEA Discomap,Mapping Environment
+351,Egnyte,"File Sharing Storage,Cloud,Social,Collaboration"
+352,ElasticSearch,"Enterprise Data,Monitoring,Real Time,Search"
+353,ELCIES Connected Services,"Health Fitness,Wearable"
+354,ElderCare Locator,"Search Healthcare,Medical"
+355,Eli Lilly Clinical Open Innovation,"Medical Reference,Science"
+356,Eloqua,"Enterprise Marketing,Analytics"
+357,Empora Evergreen,"Search Colors,Fashion"
+358,EnergyStar ABS,"Government Reference,Energy,Environment"
+359,Enthusem,"Marketing Advertising,API,Application Development,Backend-as-a-Service,Business,Customer Relationship Management,Marketing,Postal,Postcards,Printing,Sales,Screenshots,Software-as-a-Service,Video"
+360,Envato,eCommerce Marketplace
+361,EPA Station Catalog,"Science Environment,Water,Government"
+362,EPA Watershed Summary,"Science Government,Environment,Water"
+363,Ergast,Sports Auto
+364,ESPN,Sports News Services
+365,ESV Bible Lookup,"Reference Religion,Books,Religion"
+366,Etsy,"eCommerce Art,Products"
+367,Europass,Jobs European
+368,Eventbrite,"Events Marketing,Registration,Social,Tickets"
+369,Eventful,"Events Calendars,Guides,Music"
+370,Evernote,"Personal Information Management Classification,Mobile,Notes,Office"
+371,Evoca,"Telephony Media,Voice,Audio,Audio"
+372,Evri,"Recommendations Classification,Search,Semantics,Natural Language Processing"
+373,EVS iDrive,Storage Security
+374,Exchange Rate,Financial Currency
+375,exfm,Music
+376,Expedia,"Travel Booking,Referrals,Reservations"
+377,Extractiv,"Semantics Text,Analytics,Extraction"
+378,Face.com,"Photos Recognition,Recognition"
+379,Facebook,Social Webhooks
+380,Facebook Business Mapping,"Social Advertising,Identity,Mobile"
+381,Facebook Chat,Chat Social
+382,Facebook Credits,Payments Games
+383,Facebook Graph,Social Demographics
+384,Facebook Real-time Updates,"Social Real Time,Webhooks"
+385,Facebook Social Plugins,Social Widgets
+386,Factual v3,"Database Data,Products"
+387,Fakturoid,"Invoicing Accounting,Business,European"
+388,fanart.tv Music,"Music Images,Art,Engagement"
+389,FanBridge,"Rewards Advertising,Customer Service,Marketing"
+390,FanFeedr Sports News,"Sports Aggregation,News Services,Scheduling"
+391,FAROO,"Search Real Time,News Services,File Sharing"
+392,FatSecret Platform,"Nutrition Fitness,Food,Health,Reference"
+393,fav.or.it,"Feeds Blogging,Social"
+394,FavQs,"Entertainment Catalogs,Reference,Words,Writing"
+395,FCC,Government
+396,FedEx,Shipping Enterprise
+397,FeedBurner,Blogging Advertising
+398,feedly,"Blogging Feeds,Feeds"
+399,Feedzilla,Feeds News Services
+400,Fenopy,File Sharing Torrents
+401,Field Nation,Jobs
+402,FilesAnywhere,Storage Media
+403,FilesTube,File Sharing Search
+404,Film Crave,"Video Actors,Movies"
+405,Finalsite,"Education Content Management,Learning Management Systems"
+406,Finansportalen,"Feeds Customer Relationship Management,Financial,Nordic,Stocks"
+407,Findory,News Services Customization
+408,Fire Eagle,Social Mapping
+409,Fitbit,"Fitness Health,Sports,Wearable"
+410,FlashGameDistribution,Games
+411,Flickr,Photos Video
+412,FlightStats,"Data Air Travel,API,Travel"
+413,Florist One,"eCommerce Localization,Flowers,Flowers,Flowers,Shipping"
+414,Follow The Money,Government
+415,Food,"Food Database,Food,Grocery,Nutrition,Restaurants"
+416,FoodCare,"Nutrition Food,Health"
+417,Formstack,Forms Business
+418,Forrst,Social Design
+419,Forvo,"Reference Language,Language,Education,Education"
+420,FotoFlexer,Photos
+421,Fotolia,Photos Images
+422,Foursquare,"Social Mapping,Mobile,Photos,Search"
+423,Foxrate,Financial
+424,Framey,"Video Audio,Webcams"
+425,Freebase,Database Reference
+426,FreebieSMS,"Messaging Telephony,England"
+427,FreshBooks,"Financial Accounting,Business,Invoicing,Time Tracking"
+428,FriendFeed,"Other Feeds,Social"
+429,Friendster,Social
+430,fring,"Chat Telephony,Voice,Mobile,Social"
+431,FullContact Person,"Social Contacts,Customer Relationship Management,Marketing,Tools"
+432,Fwix,"Mapping Content,News Services"
+433,Fwix Location,"Mapping Localization,Reference,USA"
+434,Galileo,"Analytics Microservices,Real Time,Reporting"
+435,Garmin Communicator Plugin,"Location Accounting,Fitness,Guides,Integration,Internet of Things,Wearable"
+436,Garmin MotionBased,Sports Mapping
+437,Gatekrash,Events England
+438,Geeklist,"Social Community,Application Development,Application Development"
+439,Genability,"Reference Energy,Sustainability"
+440,GeoAdmin,Mapping
+441,Geobytes Ajax Autocomplete Cities List,Tools Mapping
+442,geocoder.ca,"Mapping Addresses,Canadian"
+443,geocubes,Mapping Search
+444,Geograph,"Geography England,Photos"
+445,Geoloqi,Mapping Mobile
+446,GeoNames,"Reference Database,Mapping,Postal,Weather"
+447,geoPlugin,Mapping Mapping
+448,Geoportail,"Mapping French,Viewer"
+449,Get Satisfaction,"Social Customer Service,Business"
+450,GetGlue,"Social eCommerce,Semantics"
+451,GETHealth,"Healthcare Applications,Fitness,Wearable"
+452,GetSentiment,"Sentiment Customer Relationship Management,Customer Service,Natural Language Processing"
+453,Gigablast,Search
+454,Gigya,Social Authentication
+455,Gimmie,"eCommerce Coupons,Marketing"
+456,Giphy,Search Images
+457,GitHub,"Tools Application Development,Webhooks,Database"
+458,GitLab,"Developers Collaboration,Open Source,Project Management"
+459,Global Biodiversity Information Facility,Reference Science
+460,GlobeXplorer,Mapping
+461,Gmail,Email
+462,GoMoText SMS Gateway,"Messaging Enterprise,Telephony"
+463,Goodreads,"Books Books,Reference"
+464,Google Ad Manager,Advertising Marketing
+465,Google Ads,"Advertising Monetization,Search"
+466,Google AdSense,Advertising SEO
+467,Google AdWords,"Advertising Marketing,Search"
+468,Google Affiliate Network,"Advertising Referrals,Marketing"
+469,Google Analytics Core Reporting,"Reporting Analytics,Automation,Dashboards,Data"
+470,Google Analytics Managment,Analytics
+471,Google Analytics Metadata,"Analytics Metadata,Reporting"
+472,Google App Engine,"Tools Cloud,Webhooks"
+473,Google Apps Email Migration,Email Enterprise
+474,Google Apps Marketplace,"Payments Subscriptions,Billing"
+475,Google Apps Script Execution,Tools
+476,Google Assistant,"Voice Artificial Intelligence,Natural Language Processing"
+477,Google Base,"eCommerce Database,Jobs,Transportation"
+478,Google BigQuery,"Database Search,Data,Data,Big Data"
+479,Google Book Search Book Viewability,Search Books
+480,Google Books,"Reference Books,Search"
+481,Google Buzz,"Social Blogging,Webhooks"
+482,Google Calendar,Calendars Events
+483,Google Chart,"Other Charts,Visualizations,Statistics,Barcodes,QR Codes"
+484,Google Checkout,eCommerce
+485,Google Civic Information,Government Reference
+486,Google Client Authentication,"Security Authentication,Identity"
+487,Google Closure Compiler,"Tools Application Development,Banking"
+488,Google Cloud DNS,"Cloud Database,Domains"
+489,Google Cloud Print,"Office Cloud,Printing"
+490,Google Cloud SQL,"Database SQL,Cloud"
+491,Google Cloud Translation,"Translation Cloud,Language"
+492,Google Code Search,"Search Application Development,Application Development"
+493,Google Contacts,Other Contacts
+494,Google Custom Search,Search
+495,Google Desktop,"Search Applications,Widgets"
+496,Google Directions,Mapping
+497,Google Distance Matrix,Mapping
+498,Google Documents List,Office Enterprise
+499,Google Drive,Storage Cloud
+500,Google Earth,Mapping 3D
+501,Google Finance Portfolio,Financial Stocks
+502,Google Fit REST,"Wearable Data,Fitness"
+503,Google Fonts,Fonts Design
+504,Google Friend Connect,Social
+505,Google Fusion Tables,"Database Tools,Mapping"
+506,Google Gadgets,Widgets
+507,Google Gears,Other Applications
+508,Google Gears Geolocation,Mapping Mobile
+509,Google Geocoding,Mapping
+510,Google Gmail OAuth,Email OAuth
+511,Google Health,"Medical Health,Database"
+512,Google Latitude,Mapping Social
+513,Google Maps,Mapping Viewer
+514,Google Maps Android,"Mapping Addresses,Localization,Location,Mobile"
+515,Google Maps Data,Mapping
+516,Google Maps Elevation,Mapping
+517,Google Maps Flash,Mapping
+518,Google Maps Geolocation,"Mapping Location,Mobile,Wi-Fi"
+519,Google Maps Places,"Mapping Localization,Reference"
+520,Google Mashup Editor,Tools
+521,Google Mirror,Cloud Wearable
+522,Google My Business,"Location Addresses,Advertising,Localization,Mapping,Notifications,Real Time"
+523,Google Notebook,Office Personal Information Management
+524,Google OpenID,Security Identity
+525,Google Page Speed Online,Web Site Management Monitoring
+526,Google PageSpeed Insights,"Performance SEO,Testing,Tools"
+527,Google Patent Search,Search Law
+528,Google Picasa,Photos
+529,Google Play Developer,"Purchasing Accounts,Automation,Management,Products,Publishing,Subscriptions"
+530,Google Plus,"Social Activity Streams,Blogging"
+531,Google Prediction,Predictions Machine Learning
+532,Google Provisioning,"Enterprise Accounts,Analytics"
+533,Google reCAPTCHA,"Security Captcha,Spam"
+534,Google Safe Browsing,Security Spam
+535,Google Search,Search
+536,Google Sheets,"Spreadsheets Data,Office,Tools"
+537,Google Shopping Search,eCommerce Search
+538,Google Sidewiki,Wiki
+539,Google Single SignOn,Security Authentication
+540,Google Sites,Tools Wiki
+541,Google Social Graph,Social
+542,Google Spreadsheets,Office Spreadsheets
+543,Google Static Maps,Mapping
+544,Google Storage,Storage Platform-as-a-Service
+545,Google Street View Image,"Photos Mapping,Images"
+546,Google Talk,Chat
+547,Google Tasks,Personal Information Management Tasks
+548,Google Translator Toolkit,"Tools Editing,Translation"
+549,Google Visualization,"Other Charts,Visualizations"
+550,Google Wave,"Social Widgets,Blogging,Robots,Gadgets"
+551,Google Waze,"Travel Mapping,Social"
+552,Google Web Authentication,"Security Authentication,Identity"
+553,Google Webmaster Tools,
+554,GovData,"Government Search,Nordic,Taxes"
+555,GovTrack.us,Government
+556,Gowalla,"Social Mobile,Mapping,Mapping"
+557,Grabicon,Images Web Site Management
+558,GreatSchools,"Education Demographics,Location"
+559,GroupDocs,"File Sharing Documents,Management"
+560,Grouper Video,Media Video
+561,Groupon,eCommerce Coupons
+562,Groups Near You,"Social Localization,Search"
+563,Grove.io,"Chat Real Time,Collaboration,Social,Project Management"
+564,Gruvr,"Music Widgets,Events"
+565,GTFS Data Exchange,Transportation Standards
+566,Guardian,"News Services Content,Data,Media"
+567,Hacker News Mobile,News Services Mobile
+568,HackerEarth,"Tools Application Development,Application Development"
+569,HarperCollins Open Book,"Other Books,Publishing"
+570,Harvest,"Project Management Business,Enterprise"
+571,HashedTags,"Social Marketing,Software-as-a-Service"
+572,HasOffers,eCommerce Referrals
+573,Health 2.0,"Medical Health,API,Directories"
+574,Healthfinder.gov,Government Health
+575,Hello Salut,"Language Tools,Translation"
+576,Heroku,"Cloud Application Development,Hosting"
+577,Hetzner,Hosting Management
+578,Heyzap,Games
+579,Hi5,Social
+580,High Gear Media,News Services Auto
+581,Highcharts,"Tools Charts,Images,Visualizations"
+582,Highcharts Highstock,"Tools Charts,Images"
+583,Highrise,"Enterprise Contacts,Office"
+584,HipChat,Chat Messaging
+585,hitbtc,"Bitcoin Cryptocurrency,Currency"
+586,Hiveminder,"Personal Information Management Office,Tasks"
+587,Hoiio SMS,Messaging Telephony
+588,Hoiio Voice,"Telephony Voice,Text-to-Speech"
+589,Holidays Service,"Reference Calendars,USA,England,Holidays"
+590,Home Energy Saver,"Government Sustainability,Energy,Tools"
+591,hon.jp,"eCommerce Japanese,Books,eBooks"
+592,HootSuite Engagement,Social Scheduling
+593,hostip.info,
+594,HotelsCombined,"Travel API,Hotels"
+595,Hotelston,"Travel Reservations,Hotels"
+596,HotUKDeals,"eCommerce England,Localization"
+597,Hotwire Travel-Ticker Deals,"Travel Hotels,Discounts"
+598,HP Labs Multimedia Analytic Platform,"Tools Content,Media"
+599,HPE Haven OnDemand View Document,"Documents Conversions,HTML5"
+600,htm2pdf,"Office PDF,Tools,Conversions,HTML5"
+601,HubSpot Leads,"Enterprise Marketing,Sales,Business"
+602,Hunch,Q&amp;A Social
+603,Hyves,Social
+604,I Need a Bargain,"eCommerce Aggregation,Discounts,Discounts,Coupons"
+605,i2space,"Travel Booking,Transportation,Transportation,Tickets"
+606,Idealista,"Real Estate Search,Spanish"
+607,identi.ca,Blogging Social
+608,Idescat Population Search,"Search Spanish,Demographics"
+609,idiomag,"Music Media,Photos,Video"
+610,Ifbyphone,"Telephony Enterprise,Business"
+611,iFixit,Reference
+612,iGoogle Themes,Other Widgets
+613,iHealth,"Medical Data,Health,Personal Information Management,Authentication"
+614,ikregeer.nl,Government
+615,iLike,Music
+616,ImageFly,"Photos Conversions,Images,Photos Editing,Images,Images"
+617,imageLoop,"Photos Tools,German"
+618,Images,Photos
+619,ImageShack,"Media Photos,Video"
+620,IMDBAPI.org,"Entertainment Movies,Reference"
+621,Imeem,"Social Media,Music"
+622,Imgur,Photos Social
+623,ImmobilienScout24,
+624,Impact Radius,"Tools Advertising,Marketing"
+625,import.io,"Data Mining Data,Database,Extraction,Tools"
+626,ImpossibleFX,"Video Customization,Editing"
+627,IMSAS,"Database Background,Crime,Banking"
+628,indeed,Jobs Search
+629,Infobip,"Messaging Messaging,Mobile,Security,Text-to-Speech"
+630,Infochimps Geo,Mapping Wiki
+631,Infochimps IP Intelligence Geolocation,Data
+632,InfoChimps Social,Social
+633,Infogroup Infoconnect,"Database Data,Marketing,Analytics,Enterprise,B2B"
+634,Information Machine,"eCommerce Aggregation,Coupons,Food,Grocery,Health,Loyalty,Platform-as-a-Service,Prices,Purchasing,Recommendations,Rewards"
+635,Infosniper.net,Mapping Domains
+636,Instagram Graph,"Photos Mobile,Social"
+637,Instagram Real-time,"Photos Mapping,Real Time,Webhooks"
+638,Instapaper,Bookmarks
+639,Intellinote,"Project Management Collaboration,Documents,Forms,Notes,Personal Information Management,Tasks"
+640,Interfax,Fax Email
+641,Internet Archive,"Library Books,History,Movies,Music,Reference"
+642,Intuit QuickBooks Online Accounting,"Accounting Enterprise,Office,Transactions"
+643,IP-API.com Geolocation,"Tools Mapping,Addresses"
+644,IP2Location,"Mapping Advertising,API"
+645,Ipernity,"Media Photos,Music,Video,Music,Social"
+646,ipinfo.io IP geolocation,"Location Customization,Geography,Mapping,Tools"
+647,iRail,Transportation Belgian
+648,is.gd,
+649,ISBN db,Reference Search
+650,iSpeech Automated Speech Recognition,"Tools Text-to-Speech,Voice,Voice,Recognition"
+651,Issuu Search,File Sharing Documents
+652,iTunes and iTunes Connect,"Other Mobile,eCommerce"
+653,IVA Video,"Video Games,Movies,TV"
+654,Jaiku,"Messaging Mobile,Blogging"
+655,JamBase,Music Events
+656,Jamendo,Music
+657,Janrain Engage,"Security Tools,Social,Authentication"
+658,Jawbone UP,Tools Health
+659,Jet,"eCommerce Marketplace,Purchasing,Sales"
+660,Joost,Video
+661,jsFiddle,Tools Design
+662,JSON Tools,Tools Validation
+663,Juju Publisher,Jobs Search
+664,Juno Download,Music
+665,Justin.tv,Video TV
+666,Kanban Tool,"Project Management Collaboration,Office,Reporting,Time Tracking"
+667,Kayak,Travel Search
+668,Kewego Video,Video
+669,KISSmetrics,Analytics Marketing
+670,Kiva,"Financial Banking,Funding,Non-Profit"
+671,KooKoo,"Telephony Cloud,Indian"
+672,Kounta,"Payments Sales,eCommerce,Mobile"
+673,Kraken,"Financial Bitcoin,Currency"
+674,Kuler,Other Design
+675,Kwwika,Real Time Notifications
+676,Kyte,Video
+677,Laravel,Framework Application Development
+678,Last 10K Company,"Financial Data-as-a-Service,Financial,Stocks"
+679,Last.fm,Music
+680,Lat49,Advertising Mapping
+681,LaunchBit,"Advertising Email,Campaigns,Marketing"
+682,Launchpad,Enterprise Project Management
+683,LaunchRock,"Social Advertising,Marketing"
+684,Layar,"Other Mobile,Augmented Reality"
+685,LazyTune,Music Search
+686,LevelUp,"Payments Financial,Merchants"
+687,Liberty Reserve,Payments Financial
+688,Library of Congress SRW,"Standards Books,Reference"
+689,LibraryThing,"Reference Library,Books"
+690,Lighthouse,"Project Management Enterprise,Collaboration,Tools"
+691,Lightspeed Retail,"Sales eCommerce,Engagement,Inventory,Products"
+692,LinkedIn,Social Enterprise
+693,LinkShare,eCommerce
+694,LinkUp Job Search Engine,"Jobs Business,Economics"
+695,Linode,
+696,LiqPAY,Payments
+697,LiveJournal,Blogging Social
+698,Livekick,"Events Music,Social"
+699,LiveVideo,Video Media
+700,Localmind,"Recommendations Localization,Social,Mobile,Q&amp;A,Q&amp;A"
+701,LocalSchoolDirectory,"Reference Ratings,Search,Education"
+702,Lockerz,Photos Social
+703,LocLizard,"Tools Mapping,Mobile"
+704,LongURL,
+705,Looker,"Analytics Dashboards,Data,Reporting"
+706,Loxcel,Mapping Mobile
+707,Ltcoin,"Financial Bitcoin,Data Mining,Currency"
+708,Ludei Cloud,Application Development
+709,Lufthansa Open,"Transportation Air Travel,Logistics,Tourism,Travel"
+710,Lulu Publishing,"Printing B2B,Books,eCommerce,Printing,Publishing"
+711,Lyft,Ride Share Transportation
+712,LyrDB,"Music Search,Lyrics,Database"
+713,LyricFind,"Music Lyrics,Reference"
+714,Ma.gnolia,Bookmarks Collecting
+715,MAAS2,Astronomy Weather
+716,Magento SOAP,eCommerce
+717,Mailcheap,Email Hosting
+718,MailChimp,"Email Business,Marketing,Webhooks"
+719,Mailgun,Email
+720,Mailjet,"Email Advertising,Analytics,Campaigns,Marketing"
+721,Maluuba Natural Language,"Telephony Language,Semantics"
+722,Mandrill,Email
+723,Map24 AJAX,Mapping Viewer
+724,Mapbox,"Mapping Geography,Visualizations"
+725,Mapfluence,"Mapping Data,Visualizations,Viewer"
+726,MapLarge,"Mapping Mobile,Charts"
+727,MapLight,Government
+728,MapMyFitness,"Fitness Health,Sports"
+729,Maponics,"Mapping Addresses,Postal,Postcodes"
+730,MapQuest,Mapping Viewer
+731,MapQuest Geocoding,Mapping
+732,Mapstraction,Mapping
+733,Marketo,"Enterprise Campaigns,Financial,Marketing"
+734,Martindale-Hubbell,"Reference Database,Directories,Law"
+735,Mbar,"Events Database,Social,Music"
+736,mcxNOW,"Financial Bitcoin,Stocks,Platform-as-a-Service,Currency,Payments"
+737,Meaningtool,"Other Blogging,Semantics"
+738,MediaFire,"File Sharing Cloud,Storage"
+739,Medianet Open MP3,"Music eCommerce,Streaming"
+740,MediaTemple,Hosting
+741,Medioh,Video Search
+742,Meebo,"Chat Video,Voice"
+743,Meetup,Social Events
+744,MEGA,"Storage Cloud,Security"
+745,Mendeley,"Science Annotations,Big Data,Documents,Education,Reference"
+746,Mera Caar,Auto Data-as-a-Service
+747,mesibo Client-side,"Chat API,Messaging,Real Time,Video,Voice"
+748,mesibo Server side,"Chat Messaging,Real Time,Video,Voice"
+749,Met.no Weather,Weather
+750,MetaCarta,Mapping
+751,MetaLocator,Mapping
+752,Metro Realtime,Transportation
+753,Metro Transit NexTrip,Transportation
+754,Microsoft adCenter,Advertising Financial
+755,Microsoft Bing,Search
+756,Microsoft Bing Maps,Mapping Viewer
+757,Microsoft Bot Framework Bot Direct Line,Bots Chat
+758,Microsoft Cognitive Services Emotion,"Recognition Images,Intelligence,Machine Learning"
+759,Microsoft MapPoint,Mapping
+760,Microsoft MSDN,Reference
+761,Microsoft Silverlight Streaming,"Other Cloud,Media,Storage"
+762,Microsoft Translator,Translation Language
+763,MindTouch Deki Wiki,Wiki
+764,Misfit,"Wearable Fitness,Health,Internet of Things"
+765,Miso,Social TV
+766,Mist.io,"Web Site Management Aggregation,Analytics,Cloud,Mobile,Monitoring,Real Time,Security,Storage"
+767,Mixpanel,"Analytics Mobile,Real Time"
+768,MNB Exchange Rate,"Financial Tools,Conversions,Currency"
+769,Mobile Phone Megastore,"eCommerce Mobile,Search,Telephony"
+770,Mobypicture,"Photos Social,Mobile"
+771,Mochi Media Flash Games,Games
+772,Mocky,"Tools Testing,Application Development,Application Development,Application Development"
+773,Moneybookers,Payments eCommerce
+774,MongoLab,"Database Database-as-a-Service,Cloud,Hosting"
+775,MOO,"Photos Printing,Business"
+776,Moodle,"Learning Management Systems Collaboration,Education,Open Source"
+777,Moonshadow Mobile,"Reference Demographics,Demographics,Visualizations,Mapping"
+778,Moreover,News Services
+779,MotorsportReg.com,"Sports Auto,Business,Events,Hobbies"
+780,Moviepilot,"Recommendations Search,Movies"
+781,Mozscape,"Marketing Data,SEO,URLs"
+782,MSN Messenger,Chat Applications
+783,Mt Gox,Financial Bitcoin
+784,MTV,Video Music
+785,Multimap,Mapping
+786,MusicBrainz,Music Semantics
+787,MusicMobs,Music
+788,Musikki Music,"Music Data,Recommendations,Reference"
+789,MusixMatch,"Music Lyrics,Metadata"
+790,MyBlogLog,Social Blogging
+791,mydigitalstructure,Backend Applications
+792,MyMemory,"Tools Language,Translation"
+793,MyNetDiary Food Search,"Medical Health,Fitness,Food,Dieting"
+794,MYOB AccountRight Live,"Financial Accounting,Australian,Accounting"
+795,MYOB Essentials Accounting,Accounting
+796,Myplaylist,Music Photos
+797,MySpace,Social
+798,MyVox,"Telephony Media,Voice"
+799,MyWot,Security Reputation
+800,NASA,Mapping
+801,NASA Mars Rover Photos,"Science Astronomy,Photos"
+802,National Library of Australia Trove,"Search Australian,Library"
+803,National Library of Medicine DIRLINE,Medical Reference
+804,National Weather Service NDFD,Weather Government
+805,NationBuilder,"Social Community,Organization,Government,Management"
+806,Natureserve species,"Education Data,Science"
+807,Naver,Search
+808,NCAA Mens College Basketball,Sports
+809,NCBI Entrez,Medical Science
+810,nd url,Tools URL Shortener
+811,Nephoscale,"Storage Hosting,Cloud"
+812,Nestoria,"Real Estate England,Spanish,Search"
+813,Netflix,Video
+814,Neto,"eCommerce Accounting,Currency,Ordering,Payments,Shipping"
+815,Netvibes,Widgets
+816,New Relic,Analytics
+817,NewsCloud,News Services
+818,NewsGator,"Feeds Social,Business"
+819,NHS,"Medical England,Government,Health"
+820,Ning,Social
+821,NLP Tools,"Natural Language Processing News Services,Recognition"
+822,NOAA Climate Data Online,Weather Data
+823,NOAA ERDDAP,"Science Data,Marine,Open Data"
+824,NOAA National Weather Service (NWS) NDFD SOAP,Weather Government
+825,NolaPro,Financial Accounting
+826,Norway Weather,Weather Nordic
+827,Notifo,"Messaging Mobile,Notifications"
+828,Nozbe,Personal Information Management Tasks
+829,NPR One Station Finder,News Services Music
+830,Numbers,"Reference Math,Random"
+831,NYC Open Data,Government New York City
+832,Odnoklassniki,Social Russian
+833,OECD Open Data,"Reference Data,Financial,Statistics"
+834,Ohloh,Social Open Source
+835,OIPA: Openaid IATI,"Data-as-a-Service Accounting,Aggregation,Agriculture,Analytics,API,Application Development,Asia,Automation,Backend-as-a-Service,Charity,Classification,Collecting,Comparisons,Contracts,Countries,Data,Data Mining,Data-as-a-Service,Database,International"
+836,Omgili,"Search Forums,Q&amp;A,Social"
+837,Omnidrive,Storage
+838,OneLogin,"Security Enterprise,Cloud,Business"
+839,Ontok,Mapping
+840,Ontok Wikipedia,Wiki
+841,Oodle,eCommerce Classifieds
+842,Ookaboo,"Photos Semantics,Search"
+843,ooVoo,"Chat Messaging,Video"
+844,Ooyala Video Player,Video
+845,Open Dining Network Food Ordering,Food Restaurants
+846,Open Garden,Wi-Fi Mobile
+847,Open Government Data Initiative,Government
+848,Open Library Books,"Reference Books,Search"
+849,Open Patent Services,"Government Search,Law"
+850,OpenCNAM,Telephony
+851,OpenCongress,Government
+852,openDada,Music Social
+853,OpenDOAR,Education Reference
+854,OpenLayers,Mapping Viewer
+855,OpenSecrets,"Government Politics,USA"
+856,OpenSkyQuery SkyPortal,"Science Astronomy,Catalogs"
+857,OpenSocial,Social
+858,OpenSosius,Social
+859,OpenStack,"Storage Cloud,Authentication,Identity"
+860,OpenStrands,Music
+861,OpenStreetMap,Mapping Viewer
+862,OpenWeatherMap,Weather Mapping
+863,OpenX,"Advertising Marketing,Enterprise"
+864,OpinionCrawl Sentiment Analysis,Sentiment Semantics
+865,Oracle NetSuite,Enterprise Customer Relationship Management
+866,Orange Location,"Telephony Mobile,Mapping"
+867,Orange SMS,"Messaging Advertising,Telephony,French"
+868,Orb,"Media Video,Music,Social,Photos,TV"
+869,Ordnance Survey Maps,"Mapping England,Viewer"
+870,Orkut,Social
+871,OtNet.tv,"Media Content,Streaming,TV,Video"
+872,Outlook Notifications REST,"Office Email,Notifications"
+873,Outside.in,"News Services Localization,Search,Localization,Data"
+874,Pachube,"Other Internet of Things,Real Time,Tools"
+875,Page2Images,"Screenshots Images,Web Site Management"
+876,Pageflakes,Widgets
+877,Panoramio,Photos Mapping
+878,PaperBack Swap,Other Books
+879,Paperboy,"News Services Location,Publishing"
+880,Paris Is,"Travel Localization,French,News Services,Events,Transportation"
+881,Parse,"Backend Mobile,Platform-as-a-Service"
+882,Parsebot,"Parsing Bots,Content,Extraction"
+883,Payment Vision Pay,Payments eCommerce
+884,Payments Gateway,Payments Financial
+885,Paymentwall,"Tools Payments,eCommerce"
+886,PayPal,"Payments eCommerce,Financial,Invoicing"
+887,PDF Alchemy,"Office Enterprise,Documents"
+888,PDF Generator,"PDF Documents,Editing"
+889,PDXCouncilConnect,Government
+890,Pebble,"Other Bluetooth,Internet of Things,Internet of Things,Internet of Things,Smartphone,Wearable"
+891,PeekaCity,"Mapping Real Estate,Localization"
+892,PeekYou Social Analytics,Social Analytics
+893,PeerIndex,Social
+894,PerfectMoney,"Payments Stocks,Privacy,Financial"
+895,Petfinder,"Search Adoption,Animals,Pets"
+896,Phanfare,"Media Photos,Video"
+897,PhishTank,Security Spam
+898,pho.to,"Photos Editing,Entertainment,Humor,Humor"
+899,Photobucket,Photos
+900,PhotoShelter,Photos
+901,Picitup,"Search Images,Mobile,Photos"
+902,Picnik,Photos Editing
+903,PicPlz,"Photos Mobile,Upload"
+904,Pikeo,Photos
+905,Pingdom,
+906,Pinterest Domain,Social Photos
+907,Pipl,"Identity Business,Data,Email,Intelligence,Search,Social"
+908,Pixabay - Free Images,"Images Photos,Search"
+909,Pixlab,"Media Analytics,Applications,Big Data,Content,Identity,Images,Machine Learning,Meme,Mobile,Recognition,Storage"
+910,Pixlr,Photos Editing
+911,Plancast,"Social Calendars,Mapping,Events"
+912,Planning Center,"Tools Music,Religion,Calendars"
+913,Plaxo,Enterprise Office
+914,Playme,"Music Streaming,eCommerce,Audio"
+915,Plazes,Social Mapping
+916,Plivo,"Telephony Tools,Messaging,Text-to-Speech,Voice"
+917,PLoS Search,Reference Science
+918,Plum Fuse,"Telephony Cloud,Messaging,Security,Telephony,Text-to-Speech,Voice"
+919,Plunker,"Tools Application Development,Social,Beauty"
+920,Pocket,Bookmarks
+921,Pogoplug,"Storage File Sharing,Backup"
+922,Poloniex,Cryptocurrency Bitcoin
+923,Poly9 FreeEarth,Mapping 3D
+924,PopShops,eCommerce Referrals
+925,PostalMethods,"Messaging Customization,Enterprise,Mail,Office,Postal"
+926,Posterous,"Social Email,Photos"
+927,Pownce,"Social Blogging,Blogging"
+928,PriceGrabber,eCommerce Comparisons
+929,PriceRunner,eCommerce
+930,PriceSpin,"eCommerce Comparisons,Prices,Prices"
+931,Primal,"Search Charts,Recommendations,Customization"
+932,Printfection,"eCommerce Marketing,Business"
+933,PRINTR,Printing 3D
+934,Product Hunt,"Products Applications,Jobs,Lists,Ratings,Search"
+935,Producteev,"Tools Chat,Collaboration"
+936,ProProfs Quiz Maker,"Education Business,Merchants,Social,Tools"
+937,Prosper,Financial
+938,Prosperent,Advertising Referrals
+939,Pryv,"Personal Information Management Data,Time,Tools"
+940,Public Transit Data Community,"Transportation Aggregation,Travel"
+941,PublicStuff,Government Cities
+942,PubNub,Messaging
+943,PubNub JavaScript Push,"Messaging Notifications,Search,Cloud"
+944,PubSub,Search Blogging
+945,Pusher,Tools Real Time
+946,Pushover Message,"Messaging Mobile,Notifications"
+947,Pushpin,Mapping Viewer
+948,Pyton Flight Portal,"Air Travel Booking,Reservations,Tickets,Travel"
+949,qr.cx,Tools URL Shortener
+950,QuarkRank,"eCommerce Community,Recommendations"
+951,QuickBase,"Platform-as-a-Service Applications,Automation,B2B,Cloud,Collaboration,Enterprise,Integration,Project Management,Spreadsheets"
+952,QuickBlox,"Backend Backend-as-a-Service,Notifications,Backend-as-a-Service,Chat"
+953,QuickBooks Payments,"Payments Credit Cards,eCommerce,Sales"
+954,Quizlet Flashcards,Education Games
+955,Quora,Q&amp;A Classification
+956,Quova,Mapping Mapping
+957,Qurl,
+958,Qwerly,"Social Identity,Search"
+959,Qype,"Recommendations England,Travel,Localization,Mapping"
+960,r.im,
+961,Rackspace Cloud Files,Storage Cloud
+962,Rackspace Cloud Servers,Cloud Hosting
+963,Rakuten,eCommerce Japanese
+964,Random House,"Reference Books,Events"
+965,RapLeaf,"Email Customization,Data,Social,Business"
+966,Raw Sugar,"Other Bookmarks,Search"
+967,Razorpay,Payments Indian
+968,Readability,Bookmarks
+969,ReadSocial,"Social Books,eBooks"
+970,Real-time Rank Tracker,"Analytics Keywords,Marketing,Optimization,Real Time,Search,SEO"
+971,Realtime Register,Reference
+972,RealtyBaron Answers,Real Estate Q&amp;A
+973,Recognize.im,"Photos Mobile,Recognition"
+974,Recurly,"Payments Billing,Business"
+975,Redbooth,"Collaboration API,Application Development,Business,Cloud,Enterprise,Project Management"
+976,Reddit,News Services Social
+977,REFUGE Restrooms,"Healthcare Community,Directories,Lists,Open Data,Ratings,Tools"
+978,Rentometer,Real Estate
+979,Repustate,Social Tools
+980,RescueGroups,"Animals Adoption,Animals,Pets"
+981,RescueTime,Project Management Enterprise
+982,Resfly,Jobs Human Resources
+983,Resgrid,"Collaboration Contacts,Earthquakes,Emergency,Fire,Location,Police,Project Management,Real Time"
+984,Restricted Party Screening,"Enterprise Government,Compliance"
+985,RetailMeNot.com Community Ideas,eCommerce Coupons
+986,Retro Avatar,Random
+987,Reuters Spotlight,News Services
+988,Revel Systems,"eCommerce Customer Relationship Management,Reporting,Restaurants,Sales"
+989,Review Trackers,"Tools Business,Feedback,Monitoring"
+990,Rezgo,Travel Booking
+991,Rhapsody,Music
+992,Ribbet,"Photos Images,Editing,Design"
+993,Ribbit,"Telephony Voice,VoIP"
+994,Ringful,"Telephony Messaging,Mobile,Voice,Messaging"
+995,RiteTag,"Social Analytics,Keywords,SEO,Tagging,Tweets"
+996,Riya,Photos
+997,Roku Web Service,"Media Movies,TV,Video"
+998,Roomorama,Travel
+999,Rotten Tomatoes,Recommendations Movies
+1000,Rovi Cloud Services,"Entertainment Advertising,Movies,Music,Recommendations,Video"
+1001,RPM Software,Enterprise Customer Relationship Management
+1002,RubyGems,"Reference Guides,Application Development"
+1003,RunKeeper Health Graph,"Sports Community,Fitness,Health,Mapping,Social"
+1004,RxNLP - Cluster Sentences and Short Texts,"Machine Learning Data Mining,Natural Language Processing"
+1005,RxNLP Text Similarity,"Text Analytics,Big Data,Comparisons,Data Mining,Natural Language Processing,Words"
+1006,S3Bubble,"Streaming Audio,Cloud,Content,Content Management,Monetization,Video"
+1007,SaasGrid,"Tools Enterprise,Office,Cloud"
+1008,Sabre,"Travel Air Travel,Booking,Data,Intelligence,REST,SDK"
+1009,Salesforce Chatter Rest,"Enterprise Customer Relationship Management,Office,Salesforce,Social"
+1010,San Francisco Crimespotting,"Government Crime,Data,Feeds"
+1011,SAP Anywhere,"Business eCommerce,ERP"
+1012,Saplo Text Analysis,"Tools Text,Semantics,Classification"
+1013,Scalarium,Cloud Hosting
+1014,Scalr,"Hosting Cloud,Webhooks"
+1015,Schoology,Education
+1016,Science Museum,"Education Reference,Science,England,Museums"
+1017,Scoop.it,Social
+1018,Scribble Maps,"Mapping Accounts,Drawing,Social"
+1019,Scribd iPaper,Office Enterprise
+1020,Scribd Platform,Office Enterprise
+1021,SDSS ImgCutout,"Science Astronomy,Mapping"
+1022,Sears,eCommerce
+1023,SeatGeek,"Events Search,Sports,Tickets"
+1024,SecondLife,Games Mapping
+1025,SecureNet,"Payments eCommerce,eCommerce"
+1026,Seesmic,"Video Messaging,Community"
+1027,Semantic Contextual Advertising,Advertising Semantics
+1028,SemanticHacker,Search Semantics
+1029,Semantria,"Tools Analytics,Sentiment,Text,API"
+1030,SEMrush,"Search Marketing,SEO"
+1031,SEMrush Traffic Analytics,"Data-as-a-Service Analytics,Competitions,Data,Engagement,Intelligence,Marketing,Monitoring,SEO"
+1032,SendGrid,"Email Analytics,Marketing,Protocol,Webhooks"
+1033,Sendy,Email Newsletter
+1034,Sensebot,"Search Summary,Semantics"
+1035,Sensis Business Search,"Reference Australian,Directories,Search,Localization"
+1036,SEOmoz,"Search Analytics,SEO,Business"
+1037,Serpstat,"Search Marketing,SEO"
+1038,ServiceM8,"Enterprise Jobs,Invoicing,Time Tracking,Business"
+1039,ServiceNow,"Customer Service API Management,Cloud,Support"
+1040,Shadows,Bookmarks
+1041,ShareASale Affiliate,"Other Referrals,Marketing"
+1042,SharedBook,Other Books
+1043,ShareFile,File Sharing
+1044,Shizzow,Social Mapping
+1045,Shopify Admin,"eCommerce Business,Merchants"
+1046,Shopify Billing,"Merchants Billing,eCommerce"
+1047,Shopify Checkout,"Merchants eCommerce,Payments"
+1048,Shopify Embedded App JavaScript,"Merchants eCommerce,Sales"
+1049,Shopping.com,eCommerce
+1050,ShopStyle,"eCommerce Fashion,Referrals"
+1051,Shopzilla,"eCommerce Comparisons,Fashion"
+1052,Short and tweet,URL Shortener
+1053,SHOUTcast Radio,"Reference Audio,Music"
+1054,Shrten,URL Shortener
+1055,ShutterPoint,Photos Images
+1056,SimpleAPI,Photos Japanese
+1057,SimpleGeo,"Mapping Database,Viewer"
+1058,SimplyHired Jobs,"Advertising Jobs,Jobs,Search,Tools"
+1059,SinglePlatform,"Food Localization,Restaurants,Restaurants,Business,API,eCommerce"
+1060,SiteSummary,Social Web Site Management
+1061,Skimlinks Link Monetization,eCommerce Referrals
+1062,Skydeck,Telephony Mobile
+1063,Skype,"Telephony Chat,Messaging,Video,Voice"
+1064,Skyscanner Live Pricing,"Travel Air Travel,B2B,Comparisons,Prices,Rentals,Search,Tourism,Transportation"
+1065,Slack Bot,"Bots Chat,Collaboration,Messaging"
+1066,Slack Conversations,"Messaging Chat,Collaboration,Real Time"
+1067,Slack Incoming Webhooks,"Messaging Collaboration,Social,Webhooks"
+1068,Slack Real Time Messaging,"Messaging Chat,Collaboration"
+1069,Slack Web,"Tools Collaboration,File Sharing,Search,Social"
+1070,SlashDB,"Database Enterprise,NoSQL,SQL"
+1071,sletoh.com,"Travel Search,Comparisons,Hotels,Prices"
+1072,SlideShare,Office Enterprise
+1073,Smart-IP Geo-IP,Mapping
+1074,SMS,"Messaging Business,Marketing,Mobile"
+1075,SMSMyBus,"Transportation Travel,Mapping"
+1076,Smugmug,Photos
+1077,Snapr,"Photos Social,Mapping,Mapping"
+1078,Snipshot,Photos
+1079,SNOCAP,Music
+1080,Social Actions,"Other Community,Events,Charity"
+1081,Social Archive,Search Social
+1082,Social Mention,Search Social
+1083,Social Share Count,"Social Analytics,Measurements"
+1084,SocialOomph,Social
+1085,Socrata Open Data,Government Reference
+1086,SoftLayer,
+1087,Softonic,Reference
+1088,Song.ly,Music Social
+1089,Songkick,Music Events
+1090,Songza,Music
+1091,sonicAPI.com,Music Audio
+1092,Sonos Music,Music Internet of Things
+1093,SoundCloud,"Music Audio,Social"
+1094,SpamOn,Email Spam
+1095,Sparklines,"Other Charts,Graphics"
+1096,SplogSpot,Search Blogging
+1097,SpokenBuzz,Telephony
+1098,Spore,Games
+1099,Sportradar,"Sports Data,Fantasy Sports,Gambling,Images,Real Time,Sports"
+1100,Sports Data,"Sports API,Content,Data,Data-as-a-Service,Fantasy Sports,Images,Real Time,Sports,Widgets"
+1101,Sports Power,"Sports Education,Ratings"
+1102,Spotify Metadata,Music Social
+1103,Spotify Web,Music Data Mining
+1104,Springer Metadata,Reference Science
+1105,SpringWidgets,Widgets Gadgets
+1106,Spy Dialer,Telephony
+1107,SQLify,"Big Data Conversions,Database"
+1108,Stack Overflow,Q&amp;A Application Development
+1109,STAT!Ref,"Medicine Medical,Reference,Science"
+1110,Steply,"Photos Mobile,Social"
+1111,stikkit,Personal Information Management
+1112,Strava,"Social Fitness,Mapping,Ride Share,Sports"
+1113,StrikeIron,"Other Marketplace,Catalogs"
+1114,StrikeIron IP Address Lookup,"Reference Data,Verification"
+1115,StrikeIron Reverse Phone and Address Append,"Reference eCommerce,Shipping,Data,Verification"
+1116,StrikeIron SMS Mobile Marketing,Messaging
+1117,Stripe,"Payments Billing,Credit Cards,Financial,Invoicing"
+1118,stSoftware Job Track,Enterprise
+1119,StubHub,"Events eCommerce,Lists,Purchasing,Tickets"
+1120,Stupeflix,"Video Photos,Music,Editing"
+1121,Subj3ct,Other Semantics
+1122,SugarCRM,Enterprise Customer Relationship Management
+1123,SugarSync,"Storage Backup,Cloud"
+1124,Superfeedr,Feeds Real Time
+1125,SupportFu,"Enterprise Customer Service,Support"
+1126,Swoogle,"Classification Search,Database,Semantics"
+1127,Syndic8,"Feeds News Services,Search"
+1128,Syndicate Plus,"eCommerce Discounts,Products"
+1129,Tagalus,Social Blogging
+1130,Taglets,Classification Social
+1131,Tagoo,"Search Audio,Video"
+1132,Tailrank,"Search Blogging,News Services"
+1133,TappIn,"Storage Cloud,Social"
+1134,Tarpipe,Social Blogging
+1135,Taxi Fare Finder,Transportation Prices
+1136,Team POPONG POODL,"Government Korean,Politics"
+1137,TeamSnap,Sports Management
+1138,TEC Mailing,"Mail Addresses,Billing,Campaigns,Marketing,Validation"
+1139,Technorati,Search Blogging
+1140,TelAPI,"Telephony Messaging,Voice,Messaging,USA,Canadian"
+1141,Telegram Bot,"Bots Cloud,Intelligence,Messaging,Mobile"
+1142,Telize,Mapping
+1143,Textamerica,Messaging
+1144,TFL Cycle Hire,"Transportation Cycling,England,Real Time"
+1145,The Beacon Registry,"Internet of Things Bluetooth,Mobile"
+1146,The Movie Database (TMDb),"Entertainment Movies,Reference,TV,Video"
+1147,The New York Times Archive,News Services History
+1148,The New York Times Article Search,"News Services Reference,Search"
+1149,The New York Times Best Sellers,"News Services Books,eCommerce"
+1150,The New York Times Movie Reviews,"Movies Actors,News Services"
+1151,The New York Times Newswire,"News Services Metadata,Reference,Search"
+1152,The Open Movie Database,"Search Movies,Media"
+1153,Thesaurus,Reference Translation
+1154,TheTVDB.com,Video TV
+1155,TheyWorkForYou,Government England
+1156,Thinknum,"Financial Data,Economics,Stocks,Stocks,Stocks"
+1157,This Is My Jam,"Music Social,Social,Recommendations"
+1158,ThisNext,Recommendations eCommerce
+1159,Thomson Reuters Open Calais,"Tagging Analytics,Financial,Machine Learning,Metadata"
+1160,Thrutu,"Telephony Mobile,Real Time"
+1161,Thumbalizr,"Photos Images,Screenshots"
+1162,Ticketfly Affiliate,"Events Marketing,Music,Tickets"
+1163,Time Extractor,"Calendars Extraction,Recognition,Text,Time"
+1164,TimesURL,
+1165,TimeZoneDb,Reference Time
+1166,Tiny-URL Open,Tools URL Shortener
+1167,Tinylink,
+1168,Tinysong,"Music Social,Streaming"
+1169,TokBox,"Security Identity,Authentication,Social"
+1170,TomTom Geocoding,Mapping
+1171,Toodledo,"Personal Information Management Lists,Tasks"
+1172,Topicalizer,Other Classification
+1173,Topsy,"Social Data,Analytics"
+1174,Touchnote,"Photos Postcards,Printing"
+1175,TouchTunes Jukebox,"Music Entertainment,Catalogs,Platform-as-a-Service"
+1176,TourCMS Marketplace,"Travel Booking,Reservations,Tourism"
+1177,tr.im,
+1178,TradeGecko,"Enterprise Ordering,Inventory,Shipping"
+1179,Tradeshift,"Enterprise Social,Business,Invoicing"
+1180,Trailer Addict,Video Movies
+1181,Traitify,"API Predictions,Testing"
+1182,trakt.tv,"Recommendations Movies,TV,Video"
+1183,TransiCast,Transportation Scheduling
+1184,Travel Booking Network,"Travel Hotels,Tickets,Booking"
+1185,Travel IQ,"Travel German,Booking"
+1186,Travel Portal,Travel Booking
+1187,TravelFusion,"Travel Air Travel,Search,Booking"
+1188,Travelport,"Travel Air Travel,API,API Management,API Strategy,Application Development,Booking,Content,Developers,SDK,Travel"
+1189,TravEnjoy,Travel
+1190,Trello,"Project Management Collaboration,Tasks"
+1191,Trendrr,"News Services Social,Visualizations,Charts"
+1192,TriMet,"Transportation Travel,Government"
+1193,TripAdvisor,"Travel Recommendations,Social"
+1194,TripIt,Travel
+1195,Tropo Scripting,"Telephony Cloud,Messaging,USA,Voice"
+1196,True Knowledge,"Search Q&amp;A,Semantics"
+1197,Trulia,Real Estate
+1198,Trynt,"Other Words,Extraction"
+1199,Tumblr,Social Blogging
+1200,Tutorials Garden,Other
+1201,TVmaze,"TV Actors,Entertainment,Movies"
+1202,TVRage,"Social Entertainment,TV"
+1203,Tweet Scan,"Search Blogging,Social"
+1204,Tweetmeme,Social Blogging
+1205,TweetPhoto,"Photos Social,Blogging"
+1206,Tweetvite,Events Social
+1207,Twick.it,Blogging Social
+1208,Twilio,"Telephony Cloud,Text-to-Speech,Voice,Webhooks"
+1209,Twilio SMS,"Messaging Telephony,USA"
+1210,Twinfluence,Social Blogging
+1211,Twitgoo,Social Photos
+1212,TwitPic,"Photos Blogging,Social"
+1213,Twitter,Social Blogging
+1214,Twitter Grader,Social Blogging
+1215,Twitter Search,Search Social
+1216,Twitter Streaming,Social Real Time
+1217,TwitterCounter,"Social Analytics,Blogging"
+1218,Twittervision,"Messaging Social,Blogging"
+1219,twt.fm,Music Social
+1220,TypeKey,Security
+1221,TypePad,Blogging Business
+1222,Uber,"Transportation Geography,Location,Prices,Real Time,Travel"
+1223,uBio Namebank,"Science Search,Animals"
+1224,UC Berkeley Registration Status Check,Education
+1225,uClassify,Tools
+1226,Udacity Course Catalog,Education Reference
+1227,UK Street Level Crime,Government Crime
+1228,Unbounce,"Advertising Marketing,Testing,Web Site Management"
+1229,Union County NC GIS,"Government Mapping,Mapping"
+1230,Unity Scripting,"Games Animation,Audio,Graphics,Social"
+1231,University of British Columbia Labs,"Science Education,Canadian"
+1232,UPC Database,"Barcodes Database,eCommerce,Products,Reference"
+1233,Upcoming.org,Events Calendars
+1234,uProc,"Data-as-a-Service Aggregation,Database,Validation"
+1235,UPS Shipping,Shipping
+1236,Urban Mapping Mapfluence,Mapping
+1237,Urban Mapping Neighborhoods,Mapping Localization
+1238,UrbanDictionary,Reference Dictionary
+1239,urlBorg,
+1240,US Census Bureau,"Government Demographics,Statistics,Demographics,USA"
+1241,USA Today Best-Selling Books,"Reference Books,News Services"
+1242,USAJOBS,Jobs Government
+1243,Userplane,"Social Chat,Video"
+1244,USGS Elevation Query Service,Mapping Government
+1245,uShip,"Shipping eCommerce,Marketplace,Transportation"
+1246,USPS Track/Confirm Fields,"Shipping Government,Mail,Postal"
+1247,Vanilla Forums,Social Forums
+1248,Vast,Search
+1249,vCita,"Enterprise Customer Relationship Management,Customer Service,Sales"
+1250,Venmo,Payments Social
+1251,Venteria,"Events Social,Calendars"
+1252,Veoh,Video Social
+1253,Verizon NavBuilder LocationKit,"Mapping Mobile,Telephony"
+1254,VeryRelated Mind Maps Keyword,Semantics SEO
+1255,VHX,"Video Social,Social,Dashboards"
+1256,ViaMichelin,"Travel Mapping,European"
+1257,Viator,"Travel Recreation,Referrals"
+1258,Viddler,Video
+1259,Videodetective,Video
+1260,VideoSurf,Video Search
+1261,Vidoop,Security Authentication
+1262,Vimeo,"Video Community,Content,Movies,Transcoding"
+1263,Vine,Video Mobile
+1264,Viralheat,"Social Analytics,Statistics,Enterprise"
+1265,VirCurEx,"Financial Bitcoin,Currency"
+1266,VK,Social European
+1267,Vodpod,Video
+1268,Vonage Nexmo SMS,Messaging Telephony
+1269,voo2do,"Other Spreadsheets,Organization,Tasks,Management"
+1270,Voucherify,"Coupons eCommerce,Marketing"
+1271,Voxeo,Telephony Text-to-Speech
+1272,vzaar,Video
+1273,W3Counter,Statistics
+1274,Wahoo Fitness,Fitness Wearable
+1275,WaifuAI,"Chat Animation,Artificial Intelligence,Avatars,Bots,Natural Language Processing"
+1276,Walgreens Balance Rewards,"Health Fitness,Rewards"
+1277,Walgreens QuickPrints,"Photos API,Printing,SDK"
+1278,Walk Score,"Real Estate Addresses,Mapping"
+1279,Walmart Open,eCommerce Referrals
+1280,WatchMouse,Monitoring
+1281,We Are Hunted,Music Social
+1282,We Feel Fine,"Other Art,Blogging,Social"
+1283,Weather Channel,Weather
+1284,Weather Underground (Wunderground),Weather
+1285,WebAIM,Chat
+1286,Webcams.travel,"Travel Travel,Webcams"
+1287,Webhose.io,"News Services Big Data,Data Mining,Extraction,Media,Metadata,Search,SEO,Social"
+1288,WebKnox Keywords,"Search Keywords,Metadata"
+1289,Weblogs,Blogging
+1290,WebPurify Profanity Filter,Security Language
+1291,WebShots,Photos
+1292,WebThumb,
+1293,Weplay,"Sports Games,Social"
+1294,What The Trend?,Social Blogging
+1295,WhatsApp Business,"Business Messaging,Mobile"
+1296,WHERE GPS,Mapping Mobile
+1297,Whereis,"Mapping Australian,Viewer"
+1298,Whipplehill,Education Management
+1299,WhoAPI,Domains Hosting
+1300,Whois,"Domains Marketing,Networking,Security,Tools"
+1301,Widgetbox,Widgets Gadgets
+1302,Wiki-Data,Reference Business
+1303,Wikia,Search
+1304,WikiLocation,"Wiki Search,Mapping"
+1305,Wikipedia,Reference Wiki
+1306,Windows Live Contacts,Personal Information Management Contacts
+1307,Windows Live Contacts Control,Personal Information Management Contacts
+1308,Windows Live Data,Security
+1309,Windows Live Expo,eCommerce Classifieds
+1310,Windows Live ID Web Authentication,Security Authentication
+1311,Windows Live Spaces,Blogging
+1312,Windows Live Spaces Photo,Photos
+1313,Windows Sidebar Gadgets,Widgets
+1314,WindshieldRepair Tech Auto Glass,"Auto API,Business"
+1315,WiserEarth,"Other Environment,Non-Profit,Social"
+1316,Wishpot Shopping,eCommerce Social
+1317,Withings,"Medical Health,Internet of Things,Measurements"
+1318,WizIQ Virtual Classroom,Education Training
+1319,Wolfram Alpha,"Reference Search,Semantics"
+1320,WooCommerce,"eCommerce Blogging,Plugins"
+1321,Wookmark,"Social Photos,Video"
+1322,Woot,eCommerce Coupons
+1323,Wordnik,"Reference Dictionary,Spelling"
+1324,WordPress.com,"Blogging Social,Content Management"
+1325,WordPress.org,"Blogging Social,Content Management"
+1326,Wordstream Keyword Tool,"Search SEO,Marketing"
+1327,WorkflowMax,"Office Invoicing,Time Tracking"
+1328,Worksnaps,"Project Management Enterprise,Collaboration,Time Tracking"
+1329,World Bank Indicators,"Reference Enterprise,Financial,Government,Photos"
+1330,World Time Engine,
+1331,World Weather Online,"Weather API,Localization"
+1332,WorldCat Search,"Reference Search,Library,Books"
+1333,Wuala,"Storage Social,Social"
+1334,Xa.ly,URL Shortener Advertising
+1335,Xero,"Financial Accounting,Business,Invoicing"
+1336,Yahoo Address Book,Other Contacts
+1337,Yahoo Ads,Advertising
+1338,Yahoo Answers,Q&amp;A Reference
+1339,Yahoo Audio Search,Music Search
+1340,Yahoo BBauth,"Security Authentication,Identity"
+1341,Yahoo Fantasy Sports,"Sports Fantasy Sports,Games"
+1342,Yahoo Geo Location,Mapping Semantics
+1343,Yahoo Geocoding,Mapping Addresses
+1344,Yahoo GeoPlanet,Mapping
+1345,Yahoo Image Search,Search Photos
+1346,Yahoo Internet Location Platform,Mapping
+1347,Yahoo Live,Video
+1348,Yahoo Local Search,"Search Mapping,Localization"
+1349,Yahoo Mail,Email
+1350,Yahoo Map Image,Mapping Images
+1351,Yahoo Maps,Mapping Viewer
+1352,Yahoo Messenger,Chat
+1353,Yahoo Music,Music Video
+1354,Yahoo Music Engine,Music Applications
+1355,Yahoo My Web Search,Search Customization
+1356,Yahoo PlaceFinder,Mapping
+1357,Yahoo Placemaker,Mapping
+1358,Yahoo Query Language GraphQL,Database Data
+1359,Yahoo Related Suggestions,Search
+1360,Yahoo Search,Search
+1361,Yahoo Search Marketing,Advertising
+1362,Yahoo Shopping,eCommerce Search
+1363,Yahoo Site Explorer,SEO
+1364,Yahoo Social Directory,Social
+1365,Yahoo Spelling Suggestion,Reference Spelling
+1366,Yahoo Term Extraction,Search
+1367,Yahoo Traffic,"Transportation Mapping,Auto,Mapping"
+1368,Yahoo Travel,Travel Search
+1369,Yahoo Video Search,"Video Search,Media"
+1370,Yahoo Widgets,Widgets Applications
+1371,Yandex,Search Russian
+1372,Yellow,"Search Business,Canadian,Localization,Reference"
+1373,Yelp Fusion,"Recommendations Business,Directories,eCommerce,Localization,Search"
+1374,Yes Broadcast DB,Music Reference
+1375,yfrog,"Photos Social,Social"
+1376,Yipit,"eCommerce Aggregation,Coupons"
+1377,Yolink,Search Semantics
+1378,Your Mapper,"Mapping Crime,Government,Localization,Open Data"
+1379,Your Mapper CrimeScore,"Mapping Reporting,Crime"
+1380,YouTube,Video Media
+1381,YouTXT,Messaging Telephony
+1382,YRC,Shipping
+1383,Yummly,"Search Food,Food,Semantics"
+1384,zanox,"Advertising eCommerce,Referrals,SEO"
+1385,Zapier,"Tools Applications,Automation,Application Development"
+1386,Zappos,eCommerce
+1387,Zazzle,eCommerce Customization
+1388,Zemanta,"Blogging Search,Classification,Recommendations,Semantics"
+1389,Zendesk Core,"Support Business,Webhooks"
+1390,Zenfolio,Photos
+1391,Zillow,Real Estate Banking
+1392,Zoho CRM,"Financial Business,Customer Relationship Management"
+1393,Zomato Foodie Index,"Food Indian,Localization,Restaurants"
+1394,ZoomIn,Mapping
+1395,ZoomInfo,"Data-as-a-Service Contacts,Intelligence,Marketing,Sales"
+1396,Zooomr,"Photos Social,Messaging,Telephony"
+1397,Zoopla,"Real Estate England,Mapping"
+1398,Zotero,Bookmarks Reference
